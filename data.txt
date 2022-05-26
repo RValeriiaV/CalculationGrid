@@ -1,0 +1,16 @@
+ellipse
+300 300 80 80 0 1
+linefrom
+100 100
+lineto
+700 100 
+lineto
+700 500
+lineto
+100 500
+lineto
+100 100
+linefrom
+100 750
+lineto
+500 500
